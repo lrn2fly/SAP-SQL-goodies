@@ -1,6 +1,6 @@
-// I just had a request to list all "used" infoobjects that are loading in our solution's flows
-// I have createted this to list it for all solutions
-// Solution is identified by process chain catalog, columns are quite obvious
+-- I just had a request to list all "used" infoobjects that are loading in our solution's flows
+-- I have createted this to list it for all solutions
+-- Solution is identified by process chain catalog, columns are quite obvious
 
 select
     comp_text as "CHAIN_FOLDER",
